@@ -1,0 +1,16 @@
+PROBA-3 is the third satellite mission in the European Space Agency's series of PROBA low-cost satellites that are being used to validate new spacecraft technologies while also carrying scientific instruments.
+
+Overview
+PROBA-3 will be composed of two independent, three-axis stabilized spacecraft flying at 150 meters to one another with the ability to accurately control the attitude and separation of the two craft. Their alignment with the Sun will be maintained for 6 hours, creating ″artificial solar eclipse″ for the back satellite. The spacecraft pair will fly a highly elliptical orbit divided between periods of accurate formation flying around apogee, when payload operations will be possible, and periods of free flight. The length of the formation control period will be a trade-off involving the increasing amount of fuel needed to maintain the orbits in formation when  away from apogee.The primary mission of PROBA-3 is solar coronagraphy by using the telescope on the larger of the two satellites to view the Sun's corona while the other spacecraft is maneuvered to accurately occult the disc of the Sun.As of 2015, PROBA-3 was scheduled to be launched in 2020. By 2018, the launch was delayed to the second quarter of 2021, and by 2020 delayed again to mid-2022. The mission is planned to have a nominal lifetime of around two years.
+
+See also
+Prisma
+ESA's PROBA missions:
+PROBA
+PROBA-2
+PROBA-V
+
+References
+External links
+Official website
+eoPortal PROBA-3 page
